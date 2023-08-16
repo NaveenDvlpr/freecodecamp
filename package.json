@@ -13,5 +13,6 @@
 	},
 	"author": "Naveen Moyya",
 	"description": "Freecodecamp cetification project to learn and improve my backend skills",
-	"keywords": ["certification", "freecodecamp", "backend", "practise"]
+	"keywords": ["certification", "freecodecamp", "backend", "practise"],
+	"license": "MIT"
 }
